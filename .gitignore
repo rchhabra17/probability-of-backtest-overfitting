@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Generated data (user creates their own)
+data/*.npy
+data/*.csv
+data/*.json
+
+# Results (except examples)
+results/*
+!results/examples/
+!results/examples/*.png
+!results/examples/*.txt
+example_stategy.py
