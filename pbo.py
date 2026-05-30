@@ -86,7 +86,7 @@ class PBOCalculator:
 
         if logits.size == 0:
             return float("nan")
-        return float(np.mean(logits < 0))
+        return float(np.mean(logits > 0))
 
     def _calculate_pbo_confidence_interval(self, logits: np.ndarray) -> Tuple[float, float]:
         """Calculate bootstrap confidence interval for the PBO."""
@@ -98,7 +98,7 @@ class PBOCalculator:
         pbo_samples = []
         for _ in range(self.config.n_bootstrap_samples):
             sample = rng.choice(logits, size=logits.size, replace=True)
-            pbo_samples.append(np.mean(sample < 0))
+            pbo_samples.append(np.mean(sample > 0))
 
         alpha = (1.0 - self.config.confidence_level) / 2.0
         lower = float(np.percentile(pbo_samples, 100 * alpha))
@@ -168,8 +168,8 @@ class PBOCalculator:
         else:
             sns.histplot(logits, bins=50, color="green", edgecolor="black", ax=plot_ax)
             plot_ax.axvline(0, color="red", linestyle="--", linewidth=1.5)
-            if np.min(logits) < 0:
-                plot_ax.axvspan(min(logits), 0, color="red", alpha=0.2)
+            if np.max(logits) > 0:
+                plot_ax.axvspan(0, max(logits), color="red", alpha=0.2)
             mean = np.mean(logits)
             std = np.std(logits, ddof=0)
             if std > 0:

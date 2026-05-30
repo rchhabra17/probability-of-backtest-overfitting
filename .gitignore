@@ -21,4 +21,9 @@ results/*
 !results/examples/
 !results/examples/*.png
 !results/examples/*.txt
-example_stategy.py
+
+# Files
+example_strategy.py
+strategy_framework.py
+
+CLAUDE.md

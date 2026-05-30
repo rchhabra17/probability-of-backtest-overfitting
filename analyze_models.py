@@ -142,7 +142,7 @@ class ModelAnalyzer:
 
         for idx in range(data.shape[1]):
             pnl = data[:, idx]
-            returns = np.diff(np.cumsum(pnl))
+            returns = pnl
             if returns.size == 0:
                 performance[idx] = 0.0
                 continue

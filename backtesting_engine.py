@@ -179,24 +179,3 @@ class BacktestEngine:
             "avg_trade_size": avg_trade_size,
         }
 
-
-
-def example_moving_average_strategy(
-    prices: pd.DataFrame,
-    fast_window: int = 20,
-    slow_window: int = 50,
-) -> pd.Series:
-    """Simple moving average crossover strategy returning -1/0/1 signals."""
-
-    if prices.shape[1] == 1:
-        price_series = prices.iloc[:, 0]
-    else:
-        price_series = prices.iloc[:, 0]
-
-    fast_ma = price_series.rolling(window=fast_window, min_periods=1).mean()
-    slow_ma = price_series.rolling(window=slow_window, min_periods=1).mean()
-
-    signals = pd.Series(0, index=price_series.index, dtype=float)
-    signals[fast_ma > slow_ma] = 1.0
-    signals[fast_ma < slow_ma] = -1.0
-    return signals
