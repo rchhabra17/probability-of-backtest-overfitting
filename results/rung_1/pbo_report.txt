@@ -1,0 +1,9 @@
+Probability of Backtest Overfitting (PBO) Report
+Metric: sharpe_ratio
+PBO: 0.5594 (Likely Overfit - High probability strategies are curve-fit)
+Confidence Interval (95%): [0.5501, 0.5678]
+Performance Degradation (median IS - median OOS): 0.3470
+SD2 Statistic: -8453.1246
+Combinations: 12870
+Strategies: 10
+Recommendation: High overfitting risk; consider reducing model complexity.

@@ -1,0 +1,1071 @@
+{
+  "rung": 3,
+  "n_params": 4,
+  "param_names": [
+    "fast",
+    "slow",
+    "confirmation_days",
+    "stop_loss_pct"
+  ],
+  "n_configs": 150,
+  "grid": [
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 30,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 50,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 50,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 10,
+      "slow": 100,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 30,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 1,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 3,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.005,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.01,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.02,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": 0.05,
+      "holding_period": 1
+    },
+    {
+      "fast": 20,
+      "slow": 200,
+      "confirmation_days": 5,
+      "stop_loss_pct": null,
+      "holding_period": 1
+    }
+  ],
+  "T": 4032,
+  "N": 150,
+  "S": 16,
+  "date_range": {
+    "start": "2010-01-04",
+    "end": "2026-01-13"
+  },
+  "generated_at": "2026-05-29T06:42:52Z"
+}

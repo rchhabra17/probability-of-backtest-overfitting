@@ -18,12 +18,14 @@ data/*.json
 
 # Results (except examples)
 results/*
-!results/examples/
-!results/examples/*.png
-!results/examples/*.txt
+!results/pbo_vs_complexity.png
+!results/ladder_summary.json
+!results/rung_*/
+!results/pre_sign_fix/
+results/**/*.pkl
+results/**/*.npy
 
 # Files
 example_strategy.py
 strategy_framework.py
-
 CLAUDE.md

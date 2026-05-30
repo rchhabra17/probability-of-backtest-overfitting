@@ -1,0 +1,9 @@
+Probability of Backtest Overfitting (PBO) Report
+Metric: sharpe_ratio
+PBO: 0.3737 (Questionable - Moderate overfitting concerns)
+Confidence Interval (95%): [0.3649, 0.3817]
+Performance Degradation (median IS - median OOS): 0.3672
+SD2 Statistic: -9216.2357
+Combinations: 12870
+Strategies: 150
+Recommendation: Investigate and validate with additional tests.
